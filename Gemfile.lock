@@ -1,5 +1,6 @@
-PATH
-  remote: ../spree_mati
+GIT
+  remote: https://github.com/TCnet/spree_mati.git
+  revision: 03d602a9b6d66bdbd2daea5424c8986e6a5c4a27
   specs:
     spree_mati (0.0.1.alpha)
       spree_api (>= 3.2.0, < 5.0)

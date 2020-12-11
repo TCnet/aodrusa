@@ -28,7 +28,8 @@ gem 'spree', '~> 4.1'
 gem 'spree_auth_devise', '~> 4.1'
 gem 'spree_gateway', '~> 3.7'
 
-gem 'spree_mati', path: '../spree_mati'
+gem 'spree_mati', github: 'TCnet/spree_mati'
+#gem 'spree_mati', path: '../spree_mati'
 gem 'roo','~> 2.8.0'
 gem 'roo-xls'
 
